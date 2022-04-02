@@ -4,3 +4,4 @@ link = input()
 x = link.index("=") + 1 if "=" in link else 17
 print(link[x:])
  
+#End 
